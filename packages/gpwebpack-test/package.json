@@ -1,5 +1,5 @@
 {
-  "name": "gpwebpack",
+  "name": "gpwebpack-test1",
   "version": "0.0.3-alpha.0",
   "description": "",
   "main": "index.js",
@@ -9,5 +9,5 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "gitHead": "8ae04b468b01cdfb68482721325e265f427084e3"
+  "gitHead": "81767d3a71ad8dc4a4ceea6e752a329a883c7b46"
 }
