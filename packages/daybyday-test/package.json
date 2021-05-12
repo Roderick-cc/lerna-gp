@@ -1,5 +1,5 @@
 {
-  "name": "gpwebpack",
+  "name": "daybyday",
   "version": "0.0.2-alpha.0",
   "description": "",
   "main": "index.js",
@@ -9,5 +9,5 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "gitHead": "aa7fa6db9d5ddf088ac43014c1cc8af6546e3bd6"
+  "gitHead": "8ae04b468b01cdfb68482721325e265f427084e3"
 }
